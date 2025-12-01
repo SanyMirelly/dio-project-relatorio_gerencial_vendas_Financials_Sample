@@ -27,3 +27,45 @@ O repositório está dividido em duas pastas contendo os desafios referente ao m
 #### Página 3: Report
 ![page3](https://github.com/SanyMirelly/dio-project-relatorio_gerencial_vendas_Financials_Sample/blob/main/Desafio_Experiencia_Usuario/Assets/P%C3%A1gina%203.png)
 
+
+## 2º Desafio: Relatório Vendas e Lucros com Data Analytics com Power BI
+
+**Objetivo**: Realizar as modificações apontadas pela expert a fim de criar visuais baseados em análises com viés estatístico focado em Data Analytics.   
+
+Pontos a serem considerados
+- Crie a página detalhes conforme mostrado no desafio de projeto.
+- Pense na disposição dos visuais em como o cliente irá consumir o conteúdo.
+- Dependendo da disposição dos visuais o número de páginas pode variar.
+- Crie as medidas necessárias.
+
+Modificações realizadas:
+- Nova peleta de cores.
+- Criação de uma capa no canva para Home Page.
+- Modificação da página Principal.
+- Botões de navegações nas paginas.
+- Criação de novas páginas
+   - Sales Details
+   - Top N e Outliers
+- Gráficos sobrepostos com indicadores
+
+### Resultado do Relatório
+
+#### Página 1: Home Page
+Página inicial que apresenta o botão **Esplorar análise** que direciona para a Página Principal.
+![page1](https://github.com/SanyMirelly/dio-project-relatorio_gerencial_vendas_Financials_Sample/blob/main/Desafio_Data_Analytics/Assets/P%C3%A1gina1.png)
+
+#### Página 2: Principal
+Onde encontramos todas informações sobre Vendas. Possui dois gráficos sobrepostos com indicadores, onde podemos mudar o tipo do gráfico e apresenta botões de navegação entre páginas
+![page2](https://github.com/SanyMirelly/dio-project-relatorio_gerencial_vendas_Financials_Sample/blob/main/Desafio_Data_Analytics/Assets/P%C3%A1gina2.png)
+
+#### Página 3: Detalhes
+Apresenta todos os detalhes sobre vendas, produtos e unidades vendidas, possui um gráfico sobreposto com indicadores de vendas por semestre e por mês. E uma matriz de lucro por trimestre e ano.
+![page3](https://github.com/SanyMirelly/dio-project-relatorio_gerencial_vendas_Financials_Sample/blob/main/Desafio_Data_Analytics/Assets/P%C3%A1gina3.png)
+
+#### Página 4: TOP N e Outliers
+Apresenta gráficos que utilizam as funções P e R para destacar os Top 3 produtos e os Top 3 produtos mais vendidos por país. Também inclui um gráfico de dispersão que mostra o comportamento dos produtos ao longo dos meses em relação ao total de vendas, unidades vendidas e lucro.
+![page3](https://github.com/SanyMirelly/dio-project-relatorio_gerencial_vendas_Financials_Sample/blob/main/Desafio_Data_Analytics/Assets/P%C3%A1gina4.png)
+
+
+
+
