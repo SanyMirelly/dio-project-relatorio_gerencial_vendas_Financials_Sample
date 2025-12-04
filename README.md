@@ -3,7 +3,7 @@
 Este repositório faz parte de um Desafio de Projeto da DIO, que tem como objetivo modificar o **Relatório Gerencial de Vendas** já criado anteriormente no Power BI.
 
 ### Estrutura:
-O repositório está dividido em duas pastas contendo os desafios referente ao mesmo dataset (`Financials Sample`).
+O repositório está dividido em três pastas contendo os desafios referente ao mesmo dataset (`Financials Sample`).
 
 ## 1º Desafio: Atualizando Relatório Financeiro com Foco na Experiência do Usuário
 
