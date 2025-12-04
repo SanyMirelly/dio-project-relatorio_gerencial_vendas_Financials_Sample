@@ -67,5 +67,23 @@ Apresenta gráficos que utilizam as funções P e R para destacar os Top 3 produ
 ![page3](https://github.com/SanyMirelly/dio-project-relatorio_gerencial_vendas_Financials_Sample/blob/main/Desafio_Data_Analytics/Assets/P%C3%A1gina4.png)
 
 
+## 3º Desafio:  Relatórios Dinâmicos com o uso de Parâmetros no Power BI
 
+**Objetivo**: Criar uma página, utilizando parâmetros para análises alternativas sem necessidade de criar varios visuais.
 
+Com esse contexto em mãos você irá criar pelo menos dois visuais considerando a criação de parâmetros. Sendo assim, as diretrizes são:   
+
+- Primeira visão: parâmetro com base em categorias
+- Segunda visão: parâmetros com base em valores (profit, sales, ou outros)
+- Sigam a mesma estilização do relatório
+- Criem uma história para apresentar essa visão sobre os dados
+
+### Página Parâmetros
+
+Apresenta um gráfico de lucro, utilizando parâmetros com base em categoria como país, mês, produto, semestres e segmento. O outro gráfico apresenta uma hierarquia de data como ano, trimestre e mês, utilizando parâmetros com base em valores como lucro, vendas e média de vendas.   
+Assim, os visuais ficam mais limpos e com menos páginas para comparar as informações. Cada botão selecionado nos parâmetros, um novo visual é apresentado na tela, deixando as informações mais claras e dinâmicas.
+
+![parâmetros](https://github.com/SanyMirelly/dio-project-relatorio_gerencial_vendas_Financials_Sample/blob/main/Desafio_relatorio_parametros/Parametros.png)
+
+## Considerações
+Os desafios vivenciados foram cruciais para aprimorar minhas habilidades no desenvolvimento de visuais no Power BI, com foco em boas práticas de design, análise e interatividade. O relatório gerencial resultante oferece visualização e análise de dados dinâmicas, facilitando a identificação de tendências e insights valiosos.
